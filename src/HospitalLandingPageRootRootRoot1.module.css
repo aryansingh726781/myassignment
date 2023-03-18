@@ -1,0 +1,1022 @@
+/* .hospitalLandingPageRootRootRoot {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    box-sizing: border-box;
+    background-color: #f8fdff;
+    overflow: hidden;
+  }
+  .ovalOvalCopyMask {
+    width: 100.07%;
+    gap: 58px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-self: flex-end;
+    align-items: flex-start;
+    margin: 0px -1px 46px 0px;
+    padding: 25px 120px 140px 120px;
+    box-sizing: border-box;
+    background-size: cover;
+    background-image: url("https://file.rendit.io/n/A6s8Mt4bQpiQ7FmlqbSr.svg");
+  }
+  .group2 {
+    width: 1133px;
+    gap: 52px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+    box-sizing: border-box;
+  }
+  .mediCare3 {
+    align-self: flex-end;
+    margin: 15px 336px 0px 0px;
+    color: #0073ff;
+    font-size: 34px;
+    font-weight: 700;
+    font-family: Source Sans Pro;
+    box-sizing: border-box;
+  }
+  .text5 {
+    margin: 15px 2px 23px 0px;
+    color: #0073ff;
+    font-size: 16px;
+    font-weight: 700;
+    font-family: Source Sans Pro;
+    box-sizing: border-box;
+  }
+  .text4 {
+    margin: 15px 2px 23px 0px;
+    color: #0073ff;
+    font-size: 16px;
+    font-family: Source Sans Pro;
+    box-sizing: border-box;
+  }
+  .text3 {
+    margin: 15px 0px 23px 0px;
+    color: #0073ff;
+    font-size: 16px;
+    font-family: Source Sans Pro;
+    box-sizing: border-box;
+  }
+  .text2 {
+    margin: 15px 28px 23px 0px;
+    color: #0073ff;
+    font-size: 16px;
+    font-family: Source Sans Pro;
+    box-sizing: border-box;
+  }
+  .navyBlueRectangle2 {
+    width: 19.47%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    margin: 0px 0px 8px 0px;
+    padding: 14px 57px 16px 57px;
+    border-radius: 25px;
+    box-sizing: border-box;
+    background-color: #007ff4;
+  }
+  .group3 {
+    width: 99.83%;
+    gap: 79px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    box-sizing: border-box;
+  }
+  .group4 {
+    width: 48.75%;
+    gap: 23px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin: 143px 0px;
+    box-sizing: border-box;
+  }
+  .welcomeToMediCare {
+    margin: 0px 0px 6px 0px;
+    color: #002348;
+    font-size: 24px;
+    font-weight: 700;
+    font-family: Source Sans Pro;
+    box-sizing: border-box;
+  }
+  .text9 {
+    color: #003b79;
+    font-size: 64px;
+    font-weight: 700;
+    font-family: Source Sans Pro;
+    line-height: 78px;
+    box-sizing: border-box;
+  }
+  .weAreOnTheLeadin {
+    width: 100%;
+    align-self: stretch;
+    margin: 0px 0px 26px 0px;
+    color: #002348;
+    font-size: 20px;
+    font-family: Source Sans Pro;
+    line-height: 39px;
+    box-sizing: border-box;
+  }
+  .group5 {
+    width: 99.27%;
+    gap: 24px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+    box-sizing: border-box;
+  }
+  .navyBlueRectangle3 {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-end;
+    padding: 20px 51px;
+    border-radius: 30px;
+    box-sizing: border-box;
+    background-color: #007ff4;
+  }
+  .whiteRectangle1 {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-end;
+    padding: 20px 82.5px;
+    border-radius: 30px;
+    box-sizing: border-box;
+    background-color: #ffffff;
+    box-shadow: 0px 10px 50px 25px rgba(0, 59, 121, 0.07);
+  }
+  .text8 {
+    color: #007df2;
+    font-size: 16px;
+    font-weight: 700;
+    font-family: Source Sans Pro;
+    text-align: center;
+    box-sizing: border-box;
+  }
+  .whiteRectangle2 {
+    width: 51.25%;
+    height: 672px;
+    align-self: flex-start;
+    border-radius: 32px;
+    box-sizing: border-box;
+    background-color: #ebeeff;
+  }
+  .text33 {
+    align-self: flex-end;
+    margin: 0px 574px 34px 0px;
+    color: #003b79;
+    font-size: 54px;
+    font-weight: 600;
+    font-family: Source Sans Pro;
+    line-height: 78px;
+    text-align: center;
+    box-sizing: border-box;
+  }
+  .weProvideTheMost {
+    width: 37.92%;
+    align-self: center;
+    margin: 0px 0px 69px 0px;
+    color: #002348;
+    font-size: 20px;
+    font-family: Source Sans Pro;
+    line-height: 39px;
+    text-align: center;
+    box-sizing: border-box;
+  }
+  .group {
+    width: 83.33%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-self: center;
+    align-items: flex-start;
+    margin: 0px 0px 166px 0px;
+    box-sizing: border-box;
+  }
+  .whiteRectangle16 {
+    width: 22.75%;
+    gap: 55.3px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin: 0px 0px 50px 0px;
+    padding: 40.3px 34px 70px 34px;
+    border-radius: 20px;
+    box-sizing: border-box;
+    background-color: #ffffff;
+    box-shadow: 0px 10px 50px 25px rgba(0, 59, 121, 0.07);
+  }
+  .shape {
+    width: 113px;
+    gap: 3.75px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin: 0px 0px 0px 10px;
+    padding: 13.7px 11.8px;
+    box-sizing: border-box;
+    background-size: cover;
+    background-image: url("https://file.rendit.io/n/RRttI3ynFFvFw3nb1RFM.svg");
+  }
+  .path8 {
+    width: 16.99%;
+    min-width: 0px;
+    max-width: 100%;
+    min-height: 0px;
+    margin: 0.55px 0px 80.7px 0px;
+    box-sizing: border-box;
+  }
+  .navyBlueSquare {
+    width: 5.72px;
+    height: 5.72px;
+    flex-shrink: 0;
+    margin: 0px 0px 94.4px 0px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #007df2;
+    box-sizing: border-box;
+    background-color: #007df2;
+  }
+  .navyBlueRectangle5 {
+    width: 22.75%;
+    gap: 51px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding: 46.1px 34px 49px 34px;
+    border-radius: 20px;
+    box-sizing: border-box;
+    background-color: #007ef3;
+    box-shadow: 0px 10px 50px 25px rgba(0, 126, 243, 0.26);
+  }
+  .shape5 {
+    width: 128px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-end;
+    margin: 0px 0px 11.6px 6px;
+    padding: 75.5px 55.5px 33.9px 55.5px;
+    box-sizing: border-box;
+    background-size: cover;
+    background-image: url("https://file.rendit.io/n/XDSzW2ezWevN1cHLDak4.svg");
+  }
+  .path18 {
+    width: 29.36%;
+    min-width: 0px;
+    max-width: 100%;
+    min-height: 0px;
+    box-sizing: border-box;
+  }
+  .text31 {
+    color: #ffffff;
+    font-size: 24px;
+    font-weight: 700;
+    font-family: Source Sans Pro;
+    box-sizing: border-box;
+  }
+  .group6 {
+    width: 196px;
+    gap: 98.5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+    box-sizing: border-box;
+  }
+  .text30 {
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: 600;
+    font-family: Source Sans Pro;
+    box-sizing: border-box;
+  }
+  .pathCopy {
+    width: 7.22%;
+    min-width: 0px;
+    max-width: 100%;
+    min-height: 0px;
+    align-self: flex-end;
+    margin: 4.5px 0px 1.5px 0px;
+    box-sizing: border-box;
+  }
+  .whiteRectangle15 {
+    width: 22.75%;
+    gap: 59.1px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin: 0px 0px 50px 0px;
+    padding: 42.1px 34px 70px 34px;
+    border-radius: 20px;
+    box-sizing: border-box;
+    background-color: #ffffff;
+    box-shadow: 0px 10px 50px 25px rgba(0, 59, 121, 0.07);
+  }
+  .group7 {
+    width: 128px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    margin: 0px 0px 0px 6px;
+    box-sizing: border-box;
+  }
+  .path9 {
+    width: 9.53%;
+    min-width: 0px;
+    height: 17.3px;
+    min-height: 0px;
+    left: 16.374740600585938px;
+    top: 39.1278076171875px;
+    position: absolute;
+    box-sizing: border-box;
+  }
+  .path10 {
+    width: 9.53%;
+    min-width: 0px;
+    height: 17.3px;
+    min-height: 0px;
+    left: 76.71174621582031px;
+    top: 39.12744140625px;
+    position: absolute;
+    box-sizing: border-box;
+  }
+  .path11 {
+    width: 8.52%;
+    min-width: 0px;
+    height: 14.8px;
+    min-height: 0px;
+    left: 33.92399597167969px;
+    top: 18.80029296875px;
+    position: absolute;
+    box-sizing: border-box;
+  }
+  .path12 {
+    width: 8.52%;
+    min-width: 0px;
+    height: 14.8px;
+    min-height: 0px;
+    left: 60.43701934814453px;
+    top: 19.5111083984375px;
+    position: absolute;
+    box-sizing: border-box;
+  }
+  .path13 {
+    width: 8.52%;
+    min-width: 0px;
+    height: 14.8px;
+    min-height: 0px;
+    left: 33.92399597167969px;
+    top: 61.312744140625px;
+    position: absolute;
+    box-sizing: border-box;
+  }
+  .shape1 {
+    width: 100%;
+    position: relative;
+    gap: 23.1px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: flex-start;
+    padding: 14.9px 14.8px;
+    box-sizing: border-box;
+    background-size: cover;
+    background-image: url("https://file.rendit.io/n/4i88BTiqJ2IbZe2FhMhe.svg");
+  }
+  .path14 {
+    width: 6.63%;
+    min-width: 0px;
+    max-width: 100%;
+    min-height: 0px;
+    margin: 32.6px 0px 54.6px 0px;
+    box-sizing: border-box;
+  }
+  .shape2 {
+    width: 46.47%;
+    min-width: 0px;
+    max-width: 100%;
+    min-height: 0px;
+    align-self: flex-end;
+    margin: 56.9px 0px 0px 0px;
+    box-sizing: border-box;
+  }
+  .whiteRectangle14 {
+    width: 22.75%;
+    gap: 55px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin: 0px 0px 50px 0px;
+    padding: 40px 34px 70px 34px;
+    border-radius: 20px;
+    box-sizing: border-box;
+    background-color: #ffffff;
+    box-shadow: 0px 10px 50px 25px rgba(0, 59, 121, 0.07);
+  }
+  .shape3 {
+    width: 95.4px;
+    gap: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    margin: 0px 0px 0px 11px;
+    padding: 36.7px 11px 24.9px 11px;
+    box-sizing: border-box;
+    background-size: cover;
+    background-image: url("https://file.rendit.io/n/zxNSMA31oY3vkmRKiQuA.svg");
+  }
+  .group8 {
+    width: 62.9px;
+    gap: 5.54px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-self: flex-end;
+    align-items: flex-start;
+    margin: 0px 0px 1.76px 0px;
+    box-sizing: border-box;
+  }
+  .shape4 {
+    width: 91.24%;
+    min-width: 0px;
+    max-width: 100%;
+    min-height: 0px;
+    box-sizing: border-box;
+  }
+  .path15 {
+    width: 8.7%;
+    min-width: 0px;
+    max-width: 100%;
+    min-height: 0px;
+    align-self: flex-end;
+    margin: 33.8px 0px 5.84px 0px;
+    box-sizing: border-box;
+  }
+  .oval3 {
+    width: 100%;
+    gap: 31px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 166px 121px 166px 120px;
+    box-sizing: border-box;
+    background-size: cover;
+    background-image: url("https://file.rendit.io/n/dLTgICWmAMb018oehmte.svg");
+  }
+  .group9 {
+    width: 48.02%;
+    gap: 34px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-self: flex-end;
+    align-items: flex-start;
+    margin: 301px 27px 200px 0px;
+    box-sizing: border-box;
+  }
+  .clinicWithInnovati {
+    color: #003b79;
+    font-size: 54px;
+    font-weight: 600;
+    font-family: Source Sans Pro;
+    line-height: 78px;
+    box-sizing: border-box;
+  }
+  .weProvideTheMost1 {
+    width: 100%;
+    align-self: stretch;
+    margin: 0px 0px 10px 0px;
+    color: #002348;
+    font-size: 20px;
+    font-family: Source Sans Pro;
+    line-height: 39px;
+    box-sizing: border-box;
+  }
+  .navyBlueRectangle4 {
+    width: 186px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-end;
+    margin: 0px 0px 0px 3px;
+    padding: 20px 53px;
+    border-radius: 30px;
+    box-sizing: border-box;
+    background-color: #007ff4;
+  }
+  .group10 {
+    width: 24.8%;
+    gap: 91px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    box-sizing: border-box;
+  }
+  .whiteRectangle11 {
+    width: 100%;
+    height: 236px;
+    left: 0px;
+    top: 116px;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-start;
+    padding: 154px 26px 52px 26px;
+    border-radius: 20px;
+    box-sizing: border-box;
+    background-color: #ffffff;
+    box-shadow: 0px 10px 50px 25px rgba(0, 59, 121, 0.07);
+  }
+  .whiteRectangle12 {
+    width: 100%;
+    height: 242px;
+    left: 0px;
+    top: 110px;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-start;
+    padding: 160px 26px 52px 26px;
+    border-radius: 20px;
+    box-sizing: border-box;
+    background-color: #ffffff;
+    box-shadow: 0px 10px 50px 25px rgba(0, 59, 121, 0.07);
+  }
+  .group11 {
+    width: 24.8%;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-self: flex-start;
+    margin: 206px 0px 236px 0px;
+    padding: 0px 25px 121px 25px;
+    box-sizing: border-box;
+  }
+  .whiteRectangle13 {
+    width: 100%;
+    height: 242px;
+    left: 0px;
+    top: 111px;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-start;
+    padding: 160px 26px 52px 26px;
+    border-radius: 20px;
+    box-sizing: border-box;
+    background-color: #ffffff;
+    box-shadow: 0px 10px 50px 25px rgba(0, 59, 121, 0.07);
+  }
+  .ovalCopy {
+    width: 100%;
+    gap: 34px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-end;
+    margin: 0px 0px 51px 0px;
+    padding: 164px 119px 85px 119px;
+    box-sizing: border-box;
+    background-size: cover;
+    background-image: url("https://file.rendit.io/n/DUutdOviEzDr85ZRF7ta.svg");
+  }
+  .weHaveTheBestSpe {
+    margin: 0px 278px 0px 0px;
+    color: #003b79;
+    font-size: 54px;
+    font-weight: 600;
+    font-family: Source Sans Pro;
+    line-height: 78px;
+    text-align: center;
+    box-sizing: border-box;
+  }
+  .weHaveAWideExperCopy {
+    width: 45.42%;
+    align-self: center;
+    margin: 0px 0px 34px 0px;
+    color: #002348;
+    font-size: 20px;
+    font-family: Source Sans Pro;
+    line-height: 39px;
+    text-align: center;
+    box-sizing: border-box;
+  }
+  .group14 {
+    width: 99.92%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+    box-sizing: border-box;
+  }
+  .text14 {
+    align-self: flex-end;
+    margin: 0px 29px 0px 0px;
+    color: #002348;
+    font-size: 24px;
+    font-weight: 700;
+    font-family: Source Sans Pro;
+    box-sizing: border-box;
+  }
+  .whiteRectangle8 {
+    width: 100%;
+    gap: 45px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    margin: 0px 0px 38px 0px;
+    padding: 80px 98.7px;
+    box-sizing: border-box;
+    background-color: #f8fdff;
+  }
+  .whatOurCustomersS {
+    margin: 0px 0px 0px 22.3px;
+    color: #003b79;
+    font-size: 54px;
+    font-weight: 600;
+    font-family: Source Sans Pro;
+    line-height: 78px;
+    box-sizing: border-box;
+  }
+  .group15 {
+    width: 98.18%;
+    gap: 27.7px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-self: flex-end;
+    align-items: flex-start;
+    box-sizing: border-box;
+  }
+  .group18 {
+    width: 262px;
+    gap: 22px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin: 0px 0px 0px 1px;
+    box-sizing: border-box;
+  }
+  .oval5 {
+    width: 24.58%;
+    min-width: 0px;
+    max-width: 100%;
+    min-height: 0px;
+    margin: 0px 0px 3px 0px;
+    box-sizing: border-box;
+  }
+  .group19 {
+    width: 75.42%;
+    gap: 8px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-self: flex-end;
+    align-items: flex-start;
+    margin: 1px 0px 0px 0px;
+    box-sizing: border-box;
+  }
+  .group20 {
+    width: 239px;
+    gap: 22px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin: 0px 0px 0px 1px;
+    box-sizing: border-box;
+  }
+  .oval7 {
+    width: 27.19%;
+    min-width: 0px;
+    max-width: 100%;
+    min-height: 0px;
+    margin: 0px 0px 3px 0px;
+    box-sizing: border-box;
+  }
+  .group21 {
+    width: 72.81%;
+    gap: 8px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-self: flex-end;
+    align-items: flex-start;
+    margin: 1px 0px 0px 0px;
+    box-sizing: border-box;
+  }
+  .group1 {
+    width: 100%;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: 112px 121px 110px 121px;
+    box-sizing: border-box;
+  }
+  .whiteRectangle7 {
+    width: 100%;
+    height: 698px;
+    left: 0px;
+    top: 2px;
+    position: absolute;
+    box-sizing: border-box;
+    background-color: #f8fdff;
+  }
+  .ovalCopy1 {
+    width: 301px;
+    min-width: 0px;
+    height: 301px;
+    min-height: 0px;
+    left: 1123px;
+    top: 0px;
+    position: absolute;
+    box-sizing: border-box;
+  }
+  .navyBlueRectangle {
+    width: 100%;
+    position: relative;
+    gap: 12px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-end;
+    padding: 44px 175px 105px 175px;
+    border-radius: 20px;
+    box-sizing: border-box;
+    background-color: #007ff4;
+  }
+  .subscribeToNewslet {
+    align-self: flex-start;
+    margin: 0px 0px 0px 145px;
+    color: #ffffff;
+    font-size: 48px;
+    font-weight: 600;
+    font-family: Source Sans Pro;
+    line-height: 78px;
+    box-sizing: border-box;
+  }
+  .weHaveAWideExper {
+    margin: 0px 169px 68px 0px;
+    color: #ffffff;
+    font-size: 20px;
+    font-family: Source Sans Pro;
+    line-height: 39px;
+    text-align: center;
+    box-sizing: border-box;
+  }
+  .whiteRectangle {
+    width: 846px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 23px 22px 23px 36px;
+    border-radius: 10px;
+    box-sizing: border-box;
+    background-color: #ffffff;
+  }
+  .enterYourEmailAdd {
+    align-self: flex-start;
+    margin: 17px 0px 18px 0px;
+    color: #9b9b9b;
+    font-size: 20px;
+    font-family: Source Sans Pro;
+    line-height: 39px;
+    box-sizing: border-box;
+  }
+  .navyBlueRectangle1 {
+    width: 22.34%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-end;
+    padding: 27px 52px;
+    border-radius: 37px;
+    box-sizing: border-box;
+    background-color: #007ff4;
+  }
+  .whiteRectangle17 {
+    width: 100%;
+    gap: 51px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 50px 0px 0px 0px;
+    box-sizing: border-box;
+    background-color: #f7fbff;
+  }
+  .group22 {
+    width: 83.19%;
+    gap: 52px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+    box-sizing: border-box;
+  }
+  .mediCare1 {
+    margin: 0px 651px 0px 0px;
+    color: #0073ff;
+    font-size: 34px;
+    font-weight: 700;
+    font-family: Source Sans Pro;
+    box-sizing: border-box;
+  }
+  .text37 {
+    margin: 0px 2px 23px 0px;
+    color: #0073ff;
+    font-size: 16px;
+    font-weight: 700;
+    font-family: Source Sans Pro;
+    box-sizing: border-box;
+  }
+  .text36 {
+    margin: 0px 2px 23px 0px;
+    color: #0073ff;
+    font-size: 16px;
+    font-family: Source Sans Pro;
+    box-sizing: border-box;
+  }
+  .whiteRectangle18 {
+    width: 100%;
+    gap: 16px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-self: stretch;
+    align-items: flex-start;
+    padding: 49px 121px 91px 121px;
+    box-sizing: border-box;
+    background-color: #ecf4ff;
+  }
+  .group23 {
+    width: 171px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin: 0px 0px 0px 3px;
+    box-sizing: border-box;
+  }
+  .oval {
+    width: 29.82%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 17px 21px 16px 21px;
+    box-sizing: border-box;
+    background-size: cover;
+    background-image: url("https://file.rendit.io/n/AKKCfuV8wyqvv5dRZ9i6.svg");
+  }
+  .path {
+    width: 99.22%;
+    min-width: 0px;
+    max-width: 100%;
+    min-height: 0px;
+    box-sizing: border-box;
+  }
+  .oval1 {
+    width: 29.82%;
+    position: relative;
+    gap: 0.38px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-end;
+    padding: 17px 16px 16px 16px;
+    box-sizing: border-box;
+    background-size: cover;
+    background-image: url("https://file.rendit.io/n/AKKCfuV8wyqvv5dRZ9i6.svg");
+  }
+  .path1 {
+    width: 9.59%;
+    min-width: 0px;
+    height: 11px;
+    min-height: 0px;
+    left: 17px;
+    top: 20.523193359375px;
+    position: absolute;
+    box-sizing: border-box;
+  }
+  .group24 {
+    width: 13.9px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin: 0px 2.26px 0px 0px;
+    box-sizing: border-box;
+  }
+  .path5 {
+    width: 63.76%;
+    min-width: 0px;
+    height: 5.99px;
+    min-height: 0px;
+    left: 5.03363037109375px;
+    top: 0px;
+    position: absolute;
+    box-sizing: border-box;
+  }
+  .path6 {
+    width: 51.44%;
+    min-width: 0px;
+    max-width: 100%;
+    min-height: 0px;
+    position: relative;
+    box-sizing: border-box;
+  }
+  .group25 {
+    width: 16.1px;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+    box-sizing: border-box;
+  }
+  .path2 {
+    width: 47.02%;
+    min-width: 0px;
+    height: 4.89px;
+    min-height: 0px;
+    left: 5.0335693359375px;
+    top: 6.174560546875px;
+    position: absolute;
+    box-sizing: border-box;
+  }
+  .path3 {
+    width: 44.23%;
+    min-width: 0px;
+    max-width: 100%;
+    min-height: 0px;
+    position: relative;
+    align-self: flex-end;
+    margin: 4.51px 0px 0px 0px;
+    box-sizing: border-box;
+  }
+  .path4 {
+    width: 55.75%;
+    min-width: 0px;
+    max-width: 100%;
+    min-height: 0px;
+    position: relative;
+    margin: 0px 0px 1.86px 0px;
+    box-sizing: border-box;
+  }
+  .oval2 {
+    width: 29.82%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-end;
+    padding: 18px 16px 18.4px 16px;
+    box-sizing: border-box;
+    background-size: cover;
+    background-image: url("https://file.rendit.io/n/AKKCfuV8wyqvv5dRZ9i6.svg");
+  }
+  .path7 {
+    width: 94.74%;
+    min-width: 0px;
+    max-width: 100%;
+    min-height: 0px;
+    box-sizing: border-box;
+  }
+  .podPayment {
+    width: 17.78%;
+    color: #667c94;
+    font-size: 14px;
+    font-weight: 600;
+    font-family: Open Sans;
+    line-height: 34px;
+    box-sizing: border-box;
+  }
+   */
